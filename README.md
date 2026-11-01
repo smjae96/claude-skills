@@ -12,7 +12,7 @@ Spring 백엔드 개발자로 일하면서 AI에게 같은 설명을 반복하�
 | --- | --- |
 | [spring-backend-change-procedure](https://github.com/smjae96/spring-backend-change-procedure) | Spring Boot 코드를 바꿀 때 실제 파일 읽기 → 스케줄러·이벤트 리스너까지 검색 → 계획 승인 → 영향 범위 함께 수정 순서로 진행하게 합니다 |
 | [step-by-step-codework](https://github.com/smjae96/step-by-step-codework) | 구현 계획을 작은 단계로 나눠 한 번에 한 단계씩 진행하고, 단계마다 커밋 메시지 예시를 줍니다 |
-| [karpathy-coding-principles-modified](https://github.com/smjae96/karpathy-coding-principles-modified) | Karpathy 코딩 원칙의 한국어 수정본. 빌드를 돌릴 수 없는 환경에서는 정적 검증으로 대체하는 규칙을 추가했습니다 |
+| [karpathy-coding-principles-modified](https://github.com/smjae96/karpathy-coding-principles-modified) | Karpathy 코딩 원칙의 한국어 수정본. 빌드를 돌릴 수 없는 환경에서는 정적 검증으로 대체하는 규칙을 추가했습니다 (원작: [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)) |
 
 ### 원인 찾기 · 판단
 
@@ -20,7 +20,7 @@ Spring 백엔드 개발자로 일하면서 AI에게 같은 설명을 반복하�
 | --- | --- |
 | [cross-project-root-cause](https://github.com/smjae96/cross-project-root-cause) | 백엔드·프론트엔드가 얽힌 버그에서 증상이 보이는 쪽을 원인으로 단정하지 않고, 데이터로 확정하게 합니다 |
 | [opus-5-required](https://github.com/smjae96/opus-5-required) | 반박을 어디서 멈출지(코드로 검증할 수 있는 영역 vs 사용자만 아는 영역)와 역할 범위를 넘지 않는 기준을 정합니다 |
-| [grill-me-ko-modified](https://github.com/smjae96/grill-me-ko-modified) | 구현 전에 AI가 계획을 끝까지 질문하게 하는 grill-me의 한국어 진행 수정본입니다 |
+| [grill-me-ko-modified](https://github.com/smjae96/grill-me-ko-modified) | 구현 전에 AI가 계획을 끝까지 질문하게 하는 grill-me의 한국어 진행 수정본입니다 (원작: [mattpocock/skills](https://github.com/mattpocock/skills)) |
 
 ### 문서 · 소통
 
@@ -31,6 +31,15 @@ Spring 백엔드 개발자로 일하면서 AI에게 같은 설명을 반복하�
 | [dev-retrospective](https://github.com/smjae96/dev-retrospective) | 개발 이슈 · 장애를 Problem / How to Solve? / Lesson 회고록으로, 비개발자도 읽을 수 있게 씁니다 |
 | [weekly-dev-retro](https://github.com/smjae96/weekly-dev-retro) | 주간 개발 회고를 "무엇이 움직였나(지표)" 중심으로 정리합니다 |
 | [work-summary](https://github.com/smjae96/work-summary) | 끝난 작업을 what / how / why 형식으로 정리합니다 |
+
+## 원작 스킬
+
+`-modified`가 붙은 스킬은 아래 원작을 바탕으로 수정한 버전입니다. 원작도 함께 확인해 보세요.
+
+| 수정본 | 원작 스킬 | 원작자 · 라이선스 |
+| --- | --- | --- |
+| [karpathy-coding-principles-modified](https://github.com/smjae96/karpathy-coding-principles-modified) | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Jiayuan Zhang · MIT |
+| [grill-me-ko-modified](https://github.com/smjae96/grill-me-ko-modified) | [mattpocock/skills — grill-me](https://github.com/mattpocock/skills) | Matt Pocock · MIT |
 
 ## 설치
 
